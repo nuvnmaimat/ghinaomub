@@ -1,5 +1,5 @@
 import sys,os
 if __name__=='__main__':
- a='ytnck';g='nwpu'
+ a='mcsi';g='tuan'
  b=a+g
- print b+ str(65)
+ print b+ str(81)
