@@ -1,5 +1,5 @@
 import sys,os
 if __name__=='__main__':
- a='tasun';g='runyfb'
+ a='yhausy';g='ctags'
  b=a+g
- print( b+ str(9.9812))
+ print( b+ str(6.472))
